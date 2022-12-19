@@ -41,4 +41,4 @@ loop
         ηn+1 = ηn _ η'/η``
         ηn = ηn+1 
     Xn+1 = Xn − η∇f(xn)
-    Xn = Xn+1
+    Xn = Xn+1 
